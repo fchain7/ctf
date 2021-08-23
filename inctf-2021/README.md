@@ -22,15 +22,15 @@
 
 4. Kqueue
 
-   description: .
+   description: heap overflow.
 
-   solved: 
+   solved: n
 
 5. MultiStorage
 
-   description: .
+   description: similar to double-fetch.
 
-   solved: 
+   solved: n
 
 6. Baby Glob
 
