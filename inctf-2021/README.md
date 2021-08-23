@@ -24,13 +24,13 @@
 
    description: heap overflow.
 
-   solved: n
+   solved: y
 
 5. MultiStorage
 
    description: similar to double-fetch.
 
-   solved: n
+   solved: y
 
 6. Baby Glob
 
